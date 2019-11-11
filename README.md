@@ -13,14 +13,14 @@ Choose your workspace:
 
 Press **+New** and select a Datastore 
 
-<img src="https://githubpics.blob.core.windows.net/automated-ml/add-datastore.jpg" width="50%">
+<img src="https://githubpics.blob.core.windows.net/automated-ml/add-datastore.jpg" width="30%">
 
 Enter Datastore name and choose your Blob storage containing the dataset
 ![](https://githubpics.blob.core.windows.net/automated-ml/aml-creation.gif)
 
 Go to your storage account, copy your Account Key and paste it to the Datastore creation page.
 
-<img src="https://githubpics.blob.core.windows.net/automated-ml/access-keys.jpg" width="50%">
+<img src="https://githubpics.blob.core.windows.net/automated-ml/access-keys.jpg" width="30%">
 
 ## Running Automated ML
 Press **+New** and choose Automated ML Run.
