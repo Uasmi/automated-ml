@@ -38,4 +38,5 @@ Create new **Compute Target** (the default is fine).
 Go Next and choose a **Regression**.
 ![](https://githubpics.blob.core.windows.net/automated-ml/automatedrun.gif)
 ## Deploying Model
+
 ## Testing Performance
