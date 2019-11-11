@@ -24,10 +24,17 @@ Go to your storage account, copy your Account Key and paste it to the Datastore 
 
 ## Running Automated ML
 Press **+New** and choose Automated ML Run.
+
 Start off by adding **Dataset** to experiment run, enter a name for it and select a **Datastore** you added before. 
+
 Go to **Path** and choose a **.csv** file. For now, skip other options.
+
 Select added Dataset and press Next.
-Then, add a name for an experiment and add a new **Compute Target** (the default is fine). 
+
+Then, add a name for an experiment and select **SalePrice** for a target column. 
+
+Create new **Compute Target** (the default is fine). 
+
 Go Next and choose a **Regression**.
 ![](https://githubpics.blob.core.windows.net/automated-ml/automatedrun.gif)
 ## Deploying Model
